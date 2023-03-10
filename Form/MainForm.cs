@@ -31,7 +31,7 @@ namespace Electronic_registry
 
         private void button2_Click(object sender, EventArgs e)
         {
-            tabControl1.SelectTab(0);
+            tabControl1.SelectTab(MainF);
         }
     }
 }
